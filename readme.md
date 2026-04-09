@@ -1,0 +1,7 @@
+Inicio
+Nosotros
+Servicios
+Equipo
+Noticias
+Contactanos
+Preguntas frecuentes
