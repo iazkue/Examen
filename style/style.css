@@ -346,3 +346,10 @@ de mis titulos, generando que los h2 no me permitian cambiar el font-sizew*/
   border-color: #0e0909;
   border-radius: 0;
 }
+
+footer {
+  background-color: #2179fce7;
+  color: white;
+  text-align: center;
+  padding: 20px 20px;
+}
