@@ -3,5 +3,13 @@ Nosotros
 Servicios
 Equipo
 Noticias
-Contactanos
-Preguntas frecuentes
+
+Contactanos:    
+    Implementa bootstrap, ademas con card, btn, form-control
+
+
+
+
+
+Preguntas frecuentes:
+    Implementa bootstrap, ademas con accordion
